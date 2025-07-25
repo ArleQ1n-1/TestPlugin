@@ -1,1 +1,1 @@
-# Resto.Front.Api.TestPlugin
+TestPlugin
