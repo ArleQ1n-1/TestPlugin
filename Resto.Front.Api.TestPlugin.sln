@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34714.143
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Resto.Front.Api.TestPlugin", "Resto.Front.Api.TestPlugin.csproj", "{249557D5-E89B-467F-A2BA-A7F22B382F96}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{249557D5-E89B-467F-A2BA-A7F22B382F96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{249557D5-E89B-467F-A2BA-A7F22B382F96}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{249557D5-E89B-467F-A2BA-A7F22B382F96}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{249557D5-E89B-467F-A2BA-A7F22B382F96}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {374C2566-CD70-4C7A-BD7D-1FD4A4AC48AA}
+	EndGlobalSection
+EndGlobal

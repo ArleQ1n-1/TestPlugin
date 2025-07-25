@@ -1,0 +1,16 @@
+﻿<UserControl x:Class="Resto.Front.Api.TestPlugin.SectionsPage" x:Name="Self"
+            xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"    
+xmlns:Assortment="clr-namespace:Resto.Front.Api.Data.Assortment;assembly=Resto.Front.Api.V8"
+xmlns:Restaurant="clr-namespace:Resto.Front.Api.TestPlugin.Restaurant"
+xmlns:System="clr-namespace:System;assembly=mscorlib" 
+xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+xmlns:wpfHelpers="clr-namespace:Resto.Front.Api.TestPlugin.WpfHelpers"
+mc:Ignorable="d"
+Width="640" Height="480">
+
+    <Grid HorizontalAlignment="Stretch" VerticalAlignment="Stretch">
+        
+    </Grid>
+</UserControl>
